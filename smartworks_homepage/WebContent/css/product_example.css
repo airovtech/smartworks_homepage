@@ -1,0 +1,56 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#subwrap #sub_main{margin-top:90px; display:inline-block; width:1260px; height:228px; border:#d1cfcf solid 1px; background:url(../images/examplebg.png) center; text-indent:-9999px; }
+
+#subwrap #sub_container .tabs { width:1000px; margin-top:85px; position:relative;} 
+#subwrap #sub_container .tabs a.tab {display:block; width:334px; height:54px; text-indent:-999px; overflow:hidden; position:absolute} 
+#subwrap #sub_container .tabs a.tab1{background:url(../images/tabs1.jpg);left:0; top:0}
+#subwrap #sub_container .tabs a.tab2{background:url(../images/tabs2.jpg);left:333px; top:0}
+#subwrap #sub_container .tabs a.tab3{background:url(../images/tabs3.jpg);left:666px; top:0}
+
+
+#subwrap #sub_container .tabs .contlist {display:none; margin-top:90px; padding:15px 0; color:#272828; font-size:20px; line-height:36px; }
+
+#subwrap #sub_container .tabs .contlist .htext {margin:95px 0 15px 0; font-weight:bold; color:#4c77b8}
+#subwrap #sub_container .tabs .contlist .box2 { float:left; position:absolute; margin-left:560px;}
+
+#subwrap #sub_container .tabs .contlist .text1{background:#ecebeb; width:400px; height:197px; font-size:17px; padding:20px; line-height:50px;}
+#subwrap #sub_container .tabs .contlist .text2{background:#ecebeb; width:400px; height:197px; font-size:17px; padding:20px; line-height:80px; float:left; position:absolute;}
+#subwrap #sub_container .tabs .contlist .text2 span{ line-height:20px;}
+
+#subwrap #sub_container .tabs .contlist .box3 { text-align:center; display:block;background:url(../images/effect.png) no-repeat; width:1000px; height:600px; }
+
+#subwrap #sub_container .tabs .contlist .box3 ul li{ float:left;}
+
+#subwrap #sub_container .tabs .contlist .box3 .effect1 dl { width:240px; margin:347px 0 0 112px; }
+#subwrap #sub_container .tabs .contlist .box3 .effect1 dl dt { font-size:19px; font-weight:bold;}
+#subwrap #sub_container .tabs .contlist .box3 .effect1 dl dd { font-size:16px; color:#525252; line-height:20px; margin-top:20px;}
+
+#subwrap #sub_container .tabs .contlist .box3 .effect2 dl  { width:240px; margin:174px 0 0 30px;}
+#subwrap #sub_container .tabs .contlist .box3 .effect2 dl dt { font-size:19px; font-weight:bold;}
+#subwrap #sub_container .tabs .contlist .box3 .effect2 dl dd { font-size:16px; color:#525252; line-height:20px; margin-top:20px;}
+
+#subwrap #sub_container .tabs .contlist .box3 .effect3 dl { width:240px; margin:360px 0 0 23px; }
+#subwrap #sub_container .tabs .contlist .box3 .effect3 dl dt { font-size:19px; font-weight:bold;}
+#subwrap #sub_container .tabs .contlist .box3 .effect3 dl dd { font-size:16px; color:#525252; line-height:20px; margin-top:20px;}
+
+#subwrap #sub_container .tabs .contlist .box4 .text1 { line-height:43px;}
+#subwrap #sub_container .tabs .contlist .box4 .text1 span{ line-height:20px;}
+#subwrap #sub_container .tabs .contlist .box5 { float:left; position:absolute; margin-left:560px;}
+#subwrap #sub_container .tabs .contlist .box5 .text2 { line-height:45px;}
+#subwrap #sub_container .tabs .contlist .box5 .text2 span{ line-height:20px;}
+
+#subwrap #sub_container .tabs .contlist .box6 { display:block;}
+#subwrap #sub_container .tabs .contlist .box6 .effect_2 { background:url(../images/effect2.png); width:1000px; height:276px; text-indent:-9999px; display:block; }
+
+
+#subwrap #sub_container .tabs .contlist .box6 ul{  display:block; list-style-image:url(../images/bullet.png);}
+#subwrap #sub_container .tabs .contlist .box6 ul.e1 {position:absolute; margin:50px 0 0 65px; }
+#subwrap #sub_container .tabs .contlist .box6 ul.e2 { margin:50px 0 0 590px;}
+#subwrap #sub_container .tabs .contlist .box6 ul li {color:#5c5b5b; font-size:17px; line-height:50px;}
+
+#subwrap #sub_container .tabs .contlist .box7 {}
+#subwrap #sub_container .tabs .contlist .box8 {float:left; position:absolute; margin-left:560px;}
+#subwrap #sub_container .tabs .contlist .box8 .text2 { line-height:50px;}
+#subwrap #sub_container .tabs .contlist .arrow { background:url(../images/arrow.png); width:42px; height:40px; position:absolute; top:257px; left:483px;}

@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#subwrap #sub_main{margin-top:90px; display:inline-block; width:1260px; height:228px; border:#d1cfcf solid 1px; background:url(../images/talent.png) center;text-indent:-9999px;}
+
+#subwrap #sub_container .talentImg ul { float:left}
+#subwrap #sub_container .talentImg ul li { text-indent:-9999px; margin:30px 30px 60px 30px}
+#subwrap #sub_container .talentImg li.talent1 { background:url(../images/talent_1.png); width:154px; height:153px; margin-top:100px;}
+#subwrap #sub_container .talentImg li.talent2 { background:url(../images/talent_2.png); width:154px; height:153px;}
+#subwrap #sub_container .talentImg li.talent3 { background:url(../images/talent_3.png); width:154px; height:153px;}
+#subwrap #sub_container .talentImg li.talent4 { background:url(../images/talent_4.png); width:154px; height:153px;}
+
+#subwrap #sub_container .talentImg li.talent1:hover{ background:url(../images/talent_1_a.png); width:154px; height:153px;}
+#subwrap #sub_container .talentImg li.talent2:hover{ background:url(../images/talent_2_a.png); width:154px; height:153px;}
+#subwrap #sub_container .talentImg li.talent3:hover{ background:url(../images/talent_3_a.png); width:154px; height:153px;}
+#subwrap #sub_container .talentImg li.talent4:hover{ background:url(../images/talent_4_a.png); width:154px; height:153px;}
+
+#subwrap #sub_container .talentText ul { float:left; margin:142px 0 0 18px;}
+#subwrap #sub_container .talentText ul li { color:#898989; font-size:18px; line-height:25px; margin-bottom:135px;}
+#subwrap #sub_container .talentText ul li span { text-decoration:underline; color:#4c77b8; font-weight:bold;}
+
+
+#subwrap #sub_container .talentImg2 {}
+#subwrap #sub_container .talentImg2 ul { margin-left:470px; }
+#subwrap #sub_container .talentImg2 ul li { text-indent:-9999px; margin:30px 30px 60px 30px; }
+#subwrap #sub_container .talentImg2 li.talent1 { background:url(../images/talent_5.png); width:154px; height:153px; margin-top:100px;}
+#subwrap #sub_container .talentImg2 li.talent2 { background:url(../images/talent_6.png); width:154px; height:153px;}
+#subwrap #sub_container .talentImg2 li.talent3 { background:url(../images/talent_7.png); width:154px; height:153px;}
+#subwrap #sub_container .talentImg2 li.talent4 { background:url(../images/talent_8.png); width:154px; height:153px;}
+
+#subwrap #sub_container .talentImg2 li.talent1:hover{ background:url(../images/talent_5_a.png); width:154px; height:153px;}
+#subwrap #sub_container .talentImg2 li.talent2:hover{ background:url(../images/talent_6_a.png); width:154px; height:153px;}
+#subwrap #sub_container .talentImg2 li.talent3:hover{ background:url(../images/talent_7_a.png); width:154px; height:153px;}
+#subwrap #sub_container .talentImg2 li.talent4:hover{ background:url(../images/talent_8_a.png); width:154px; height:153px;}
+
+
+#subwrap #sub_container .talentText2 { }
+#subwrap #sub_container .talentText2 ul { margin:142px 0 0 700px; float:left; position:absolute;}
+#subwrap #sub_container .talentText2 ul li { color:#898989; font-size:18px; line-height:25px; margin-bottom:135px;}
+#subwrap #sub_container .talentText2 ul li span { text-decoration:underline; color:#4c77b8; font-weight:bold;}

@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#subwrap #sub_main{margin-top:90px; display:inline-block; width:1260px; height:228px; border:#d1cfcf solid 1px; background:url(../images/qnabg.png) center; text-indent:-9999px; }
+
+#subwrap #sub_container .tabs { width:1000px; margin-top:85px; position:relative;} 
+#subwrap #sub_container .tabs a.tab {display:block; width:500px; height:54px; text-indent:-999px; overflow:hidden; position:absolute} 
+#subwrap #sub_container .tabs a.tab1{background:url(../images/tabss1.jpg);left:0; top:0}
+#subwrap #sub_container .tabs a.tab2{background:url(../images/tabss2.jpg);left:499px; top:0}
+
+
+#subwrap #sub_container .tabs .contlist {display:none; margin-top:90px; padding:15px; color:#7f8080; font-size:20px; line-height:36px; } 
+#subwrap #sub_container .tabs .contlist .qna { margin-top:100px;}

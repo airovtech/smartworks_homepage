@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#subwrap #sub_main{margin-top:90px; display:inline-block; width:1260px; height:228px; border:#d1cfcf solid 1px; background:url(../images/feature.png) center; text-indent:-9999px;}
+#subwrap #sub_container .feature_head{ text-indent:-9999px;}
+#subwrap #sub_container .feature_1 { margin-top:66px;}
+#subwrap #sub_container .feature_1 .feature_head { background:url(../images/feature_1.png); width:113px; height:48px;}
+#subwrap #sub_container .feature_1 .feature_text { margin-top:90px; color:#5d6064; line-height:30px; font-size:16px;}
+#subwrap #sub_container .feature_1 .feature_1_Img { background:url(../images/feature_1_Img.png); width:1000px; height:210px;}
+#subwrap #sub_container .feature_1 .feature_text2 { margin-top:50px; color:#5d6064; line-height:30px; font-size:16px;}
+#subwrap #sub_container .feature_1 .feature_1_Img2 { background:url(../images/feature_1_img2.png); width:561px; height:520px; margin:50px 0 0 220px;}
+
+#subwrap #sub_container .feature_2 { margin-top:66px;}
+#subwrap #sub_container .feature_2 .feature_head { background:url(../images/feature_2.png); width:113px; height:48px;}
+#subwrap #sub_container .feature_2 .feature_text { margin:70px 0 0 20px; color:#5d6064; line-height:30px; font-size:16px;}
+#subwrap #sub_container .feature_2 .feature_2_Img { background:url(../images/feature_2_Img.png); width:857px; height:355px; margin:0 0 0 72px;}
+#subwrap #sub_container .feature_2 .feature_text2 { margin:30px 30px 0 0; color:#5d6064; line-height:30px; font-size:16px; text-align:right;}
+
+#subwrap #sub_container .feature_3 { margin-top:66px;}
+#subwrap #sub_container .feature_3 .feature_head { background:url(../images/feature_3.png); width:113px; height:48px;}
+#subwrap #sub_container .feature_3 .feature_3_Img { background:url(../images/feature_3_Img.png); width:1000px; height:209px; margin-top:60px;}
+#subwrap #sub_container .feature_3 .feature_text { margin-top:50px; color:#5d6064; line-height:30px; font-size:16px;}
+
+#subwrap #sub_container .feature_4 { margin-top:66px;}
+#subwrap #sub_container .feature_4 .feature_head { background:url(../images/feature_4.png); width:200px; height:48px;}
+#subwrap #sub_container .feature_4 .feature_text { margin-top:50px; color:#5d6064; line-height:30px; font-size:16px;}

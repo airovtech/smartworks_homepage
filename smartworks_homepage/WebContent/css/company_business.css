@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#subwrap #sub_main{overflow:scroll;margin-left:auto; margin-right:auto; margin-top:90px; display:inline-block; height:228px; width:100%; border:#d1cfcf solid 1px; background:url(../images/business.png) center;  text-indent:-9999px;}
+
+#sub_container .business table{ border-top:2px solid #959595;border-bottom:2px solid #959595; color:#7f8080; font-size:18px; margin-top:72px;} 
+#sub_container .business table th { background-color:#ebebeb; font-weight:normal}
+#sub_container .business table tr.t1 th, .t1 td{padding:30px; border-bottom:1px solid #d1cfcf;}
+#sub_container .business table tr.t2 th{padding-top:52px; padding-bottom:52px; border-bottom:1px solid #d1cfcf;}
+#sub_container .business table tr.t2 td, tr.t3 td{padding:30px; border-bottom:1px solid #d1cfcf;}
+#sub_container .business table tr.t2 td.d1, td.d2{ text-align:center; border-right:1px solid #d1cfcf;}

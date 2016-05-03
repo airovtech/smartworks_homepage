@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*main*/
+
+#main { height:743px; background:url(../images/main_bg.png); border-bottom:#d1cfcf 1px solid; border-top:#d1cfcf 1px solid;}
+#main .mainImg .tab {margin-top:116px; margin-left:auto; margin-right:auto; width:1000px; height:700px; background:url(../images/main_tab.png); display:block; z-indent:9998; }
+
+/*contents*/
+#contents {width:1000px;  margin:0 auto; text-indent:-999px; }
+#contents .contentsTop {width:1000px; height:307px; padding-top:100px;} 
+
+#contents .contentsTop .function a {width: 267px;height: 205px;background: url(../images/function.png);display: block;margin-left: 59px; position:absolute}
+#contents .contentsTop .function a:hover{width: 267px;height: 205px;background: url(../images/function_a.png);display: block;margin-left: 59px;}
+
+#contents .contentsTop .inquiry a { width:267px; height:205px; background:url(../images/inquiry.png); display:block; margin-left:367px; position:absolute}
+/* #contents .contentsTop .inquiry a:hover { width:267px; height:205px; background:url(../images/inquiry_a.png); display:block; margin-left:367px;} */
+
+#contents .contentsTop .notice { width:267px; height:205px; background: url(../images/notice_bg.png); position:absolute; margin-left:674px; float:left; text-indent:7px;}
+#contents .contentsTop .notice ul { font-size:15px; list-style-image:url(../images/circle.png); display:block; margin:35px 0 0 40px;}
+
+#contents .contentsTop .notice ul li { margin-bottom: 17px; }
+#contents .contentsTop .notice ul li a{ color:#646262;}
+#contents .contentsTop .notice ul li a:hover{ color:#06C; text-decoration:underline;}
+
+#contents .contentsTop .notice .more a{background:url(../images/more.png); width:47px; height:15px; display:block; margin:15px 19px 0 201px; }
+
+#contents .contentsBottom {width:1000px;  }
+#contents .contentsBottom .client{ background:url(../images/client.png); width:99px; height:22px; margin-left:47px; }
+#contents .contentsBottom .client_list{ background:url(../images/client_list.png); width:769px; height:319px; margin:70px 0 0 112px;}

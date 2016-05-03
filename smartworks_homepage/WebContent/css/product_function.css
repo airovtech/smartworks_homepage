@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#subwrap #sub_main{margin-top:90px; display:inline-block; width:1260px; height:228px; border:#d1cfcf solid 1px; background:url(../images/functionbg.png) center; text-indent:-9999px; }
+
+#subwrap #sub_container .tabs { width:1000px; margin-top:85px; position:relative;} 
+#subwrap #sub_container .tabs a.tab {display:block; width:251px; height:54px; text-indent:-999px; overflow:hidden; position:absolute} 
+#subwrap #sub_container .tabs a.tab1{background:url(../images/tab1.jpg);left:0; top:0}
+#subwrap #sub_container .tabs a.tab2{background:url(../images/tab2.jpg);left:249px; top:0}
+#subwrap #sub_container .tabs a.tab3{background:url(../images/tab3.jpg);left:498px; top:0}
+#subwrap #sub_container .tabs a.tab4{background:url(../images/tab4.jpg);left:748px; top:0}
+
+#subwrap #sub_container .tabs .contlist {display:none; margin-top:90px; padding:15px; color:#7f8080; font-size:20px; line-height:36px; text-align:center;} 
+#subwrap #sub_container .tabs .contlist .comment {margin-top:95px;}
+#subwrap #sub_container .tabs .contlist strong{color:#4c77b8}
+
+#subwrap #sub_container .tabs .diagram { background:url(../images/diagram.png); width:680px; height:581px; margin:75px 0 0 180px;}
+
+#subwrap #sub_container .tabs dl .title {text-indent:-9999px;}
+#subwrap #sub_container .tabs dl dd{color:#808181; font-size:17px; text-align:left; margin-top:20px;}
+#subwrap #sub_container .tabs dl dd span{ color:#4c77b8; font-size:7px;}
+#subwrap #sub_container .tabs dl.d1 dt.title{ background:url(../images/diagram_title1.jpg); width:82px; height:35px; margin-top:60px;}
+#subwrap #sub_container .tabs dl.d2 dt.title{ background:url(../images/diagram_title2.jpg); width:93px; height:35px; margin-top:20px;}
+#subwrap #sub_container .tabs dl.d3 dt.title{ background:url(../images/diagram_title3.jpg); width:82px; height:35px; margin-top:20px;}
+#subwrap #sub_container .tabs dl.d4 dt.title{ background:url(../images/diagram_title4.jpg); width:82px; height:35px; margin-top:20px;}
+
+#subwrap #sub_container .tabs span { color:#b9b9ba; }
+
+#subwrap #sub_container .tabs .bottom { display:block; }
+#subwrap #sub_container .tabs .bottom .process {width:500px; }
+#subwrap #sub_container .tabs .bottom .process .process_img{ background:url(../images/process.jpg); width:442px; height:303px; margin:100px 0 20px 30px; text-indent:-9999px;}
+#subwrap #sub_container .tabs .bottom .process .text { background:#ecebeb; width:470px; height:145px;  padding:10px; margin-top:20px; }
+#subwrap #sub_container .tabs .bottom .process .text .text1{color:#767676; font-size:16px;}
+#subwrap #sub_container .tabs .bottom .process .text .text2{color:#999; font-size:13px;}
+
+#subwrap #sub_container .tabs .bottom .informanage {width:500px;float:left;position:absolute; margin-left:500px;}
+#subwrap #sub_container .tabs .bottom .informanage .informanage_img{ background:url(../images/informanage.jpg); width:471px; height:303px; margin:0 0 20px 10px; text-indent:-9999px;}
+#subwrap #sub_container .tabs .bottom .informanage .text {background:#ecebeb; width:470px; height:145px;  padding:10px; margin-top:20px; }
+#subwrap #sub_container .tabs .bottom .informanage .text .text3{color:#767676; font-size:16px; }
+#subwrap #sub_container .tabs .bottom .informanage .text .text4{color:#999; font-size:13px;}
+
+#subwrap #sub_container .tabs .appstore_img { background:url(../images/appstore.png); width:711px; height:575px; margin:90px 0 0 138px; text-indent:-9999px;}
+#subwrap #sub_container .tabs .appstore .text{background:#ecebeb; width:954px; height:200px;  padding:23px; margin-top:50px; color:#767676; font-size:17px; line-height:50px; text-align:left;}
+
+#subwrap #sub_container .tabs .workplace_img { background:url(../images/workplace.png); width:711px; height:575px; margin:90px 0 0 138px; text-indent:-9999px;}
+#subwrap #sub_container .tabs .workplace .text{background:#ecebeb; width:940px; height:390px;  padding:30px; margin-top:50px; color:#767676; font-size:17px; line-height:50px; text-align:left;}
+
+#subwrap #sub_container .tabs .builder_img { background:url(../images/builder.png); width:711px; height:575px; margin:90px 0 0 138px; text-indent:-9999px;}
+#subwrap #sub_container .tabs .builder .text span { line-height:35px; color:#767676; }
+#subwrap #sub_container .tabs .builder .text{background:#ecebeb; width:940px; height:210px;  padding:30px; margin-top:50px; color:#767676; font-size:17px; line-height:70px; text-align:left;}
+

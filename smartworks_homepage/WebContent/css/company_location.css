@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#subwrap #sub_main{object-fit: cover; margin-right: auto; margin-left: auto;margin-top:90px; display:inline-block; height:228px; width:1600px; border:#d1cfcf solid 1px; background:url(../images/location.png) center; text-indent:-9999px;}
+
+#subwrap .location {width:1000px; margin:0 auto;}
+#subwrap .location .map { background:url(../images/map.png) center; width:1000px;  height:461px; margin:0 auto; margin-top:120px;}
+
+#subwrap .location table {border-top:2px solid #959595;border-bottom:2px solid #959595; color:#7f8080; font-size:18px; margin-top:72px;}
+#subwrap .location table th { background-color:#ebebeb; font-weight:normal}
+#subwrap .location table tr.t1,th,td {border-bottom:1px solid #d1cfcf;}
+
+#subwrap .location table tr,th,td{padding:30px;}
+
+#subwrap .location table tr.t2 td ul li.walkIcon{ background:url(../images/walkIcon.png); width:34px; height:34px;}
+#subwrap .location table tr.t2 td ul li.busIcon{ background:url(../images/busIcon.png); width:34px; height:34px;}
+#subwrap .location table tr.t2 td {float:left;}
+#subwrap .location table tr.t2 td ul.Icon{ position:absolute; }
+#subwrap .location table tr.t2 td ul.Icon li.walkIcon{ margin-bottom:10px;}
+
+#subwrap .location table tr.t2 td ul.text{ margin-left:50px; line-height:40px;}
