@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#subwrap #sub_main{ height:228px; border:#d1cfcf solid 1px; background:url(../images/policy.png) center; text-indent:-9999px;}
+
+
+#sub_container .article .policy { font-size:14px; line-height:25px; text-align:left; font-weight:lighter; color:#999}
+
+#sub_container .article .policy .header {font-size:15px; text-align:left;  line-height:40px; color:#333}
+#sub_container .article .policy .m1 { font-size:15px; margin-left:30px; color:#666}
+
+#sub_container .article .policy .content { margin-left:30px; font-size:14px;}
