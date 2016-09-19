@@ -26,7 +26,12 @@ $(document).ready(
 						// 'visible').siblings().css('visibility', 'hidden');
 						$('#sub_nav0').show().find('#sub_nav1').css(
 								'visibility', 'visible').siblings().css(
-								'visibility', 'visible');
+										'visibility','visible');
+						
+						$('#sub_nav0').find('#sub_nav1').find('a').css('color','#2b2b2b');
+						$('#sub_nav0').find('#sub_nav1').siblings().find('a').css('color','#DCDCDC');
+						
+//						'visibility', 'hidden');
 					}, function(e) {
 						setTimeout(function() {
 							$('#sub_nav0 #sub_nav1').hover(function() {
@@ -47,6 +52,10 @@ $(document).ready(
 						$('#sub_nav0').show().find('#sub_nav2').css(
 								'visibility', 'visible').siblings().css(
 								'visibility', 'visible');
+						
+						$('#sub_nav0').find('#sub_nav2').find('a').css('color','#2b2b2b');
+						$('#sub_nav0').find('#sub_nav2').siblings().find('a').css('color','#DCDCDC');
+						
 					}, function(e) {
 						setTimeout(function() {
 							$('#sub_nav0 #sub_nav2').hover(function() {
@@ -67,6 +76,10 @@ $(document).ready(
 						$('#sub_nav0').show().find('#sub_nav3').css(
 								'visibility', 'visible').siblings().css(
 								'visibility', 'visible');
+						
+						$('#sub_nav0').find('#sub_nav3').find('a').css('color','#2b2b2b');
+						$('#sub_nav0').find('#sub_nav3').siblings().find('a').css('color','#DCDCDC');
+						
 					}, function(e) {
 						setTimeout(function() {
 							$('#sub_nav0 #sub_nav3').hover(function() {
@@ -87,6 +100,10 @@ $(document).ready(
 						$('#sub_nav0').show().find('#sub_nav4').css(
 								'visibility', 'visible').siblings().css(
 								'visibility', 'visible');
+						
+						$('#sub_nav0').find('#sub_nav4').find('a').css('color','#2b2b2b');
+						$('#sub_nav0').find('#sub_nav4').siblings().find('a').css('color','#DCDCDC');
+						
 					}, function(e) {
 						setTimeout(function() {
 							$('#sub_nav0 #sub_nav4').hover(function() {
@@ -107,6 +124,7 @@ $(document).ready(
 						$('#sub_nav09').show().find('#sub_nav55').css(
 								'visibility', 'visible').siblings().css(
 								'visibility', 'visible');
+						
 					}, function(e) {
 						setTimeout(function() {
 							$('#sub_nav09 #sub_nav55').hover(function() {
